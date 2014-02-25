@@ -78,8 +78,6 @@ public class Main extends PircBot {
 	     }	
 		    System.out.println("###LOADED CMD.INI###");
 		    this.connect();
-		    Panel p = new Panel();
-		    p.frame();
 		    this.loop();
 	} catch(Exception e){ e.printStackTrace(); }
 	}
