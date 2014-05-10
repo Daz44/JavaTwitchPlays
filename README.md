@@ -22,7 +22,7 @@ Acknowledgements
 JTP is developed using the following technolegy
 
 * [EclipseIDE] - A Java IDE.
-* [PircBot] - a super fast port of Markdown to JavaScript
+* [PircBot]
 
 Installation
 --------------
